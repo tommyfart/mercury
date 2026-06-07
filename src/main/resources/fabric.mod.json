@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "id": "addon-template",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for Meteor Client addons.",
+  "name": "Mercury",
+  "description": "An addon for finding stashes and bases.",
   "authors": [
-    "seasnail"
+    "tommyfart"
   ],
   "contact": {
     "sources": "https://github.com/MeteorDevelopment/meteor-addon-template"
